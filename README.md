@@ -1,2 +1,2 @@
 # tec
-https://souravo.github.io/Futurbee-web/
+ https://zero52100.github.io/tec/
